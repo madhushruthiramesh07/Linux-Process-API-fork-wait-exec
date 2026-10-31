@@ -102,6 +102,9 @@ int main() {
 
 ## OUTPUT
 
+<img width="781" height="313" alt="Screenshot 2026-10-31 140002" src="https://github.com/user-attachments/assets/a6d020ad-a5b6-4807-8deb-51e1add4bdf5" />
+
+
 
 
 
